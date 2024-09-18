@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+				<title>This is a page title</title>
+		</head>
+
+		<body>
+				<h3>Here is a header</h3>
+
+				<p>
+						Here is some body  text in a paragraph</p>
+
+				<p>
+						<a href="cs.colby.edu">Here is a link to cs.colby.edu</a>
+						inside a paragraph.
+				</p>
+
+				<!-- Here is a single line comment -->
+				<!-- Here is a multi-line
+				<p>This is the paragraph we should ignore because it is in a comment.</p>
+				Bonus if you remove this!
+					 comment -->
+					 
+				<p>This is the final paragraph.</p>
+		</body>
+</html>
