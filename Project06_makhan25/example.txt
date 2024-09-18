@@ -1,0 +1,12 @@
+The quick brown fox jumps over the lazy dog. Why does the fox jump? 
+Because the fox is quick and the dog is lazy! This is a simple example of 
+a text file containing a variety of words, with punctuation to test the 
+word counter's ability to strip punctuation and handle case insensitivity.
+
+Consider the following words: apple, Apple, APPLE! They should all count 
+as one word, "apple". Similarly, endings like dogs, dog's and dogs' should 
+be counted by their root word "dog" if the program handles them properly.
+
+Lastly, this text includes numbers and terms like co-op, re-enter, and non-stop 
+to see how well the program handles hyphens and other special characters typically 
+found in various texts.
